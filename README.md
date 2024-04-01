@@ -18,7 +18,10 @@ The Gantt chart provided a clear visualization of project timelines and mileston
 
 the heat map analysis revealed geographical patterns in sales performance, indicating regions of high demand and areas that may require additional marketing or distribution efforts. This insight can inform strategic decisions regarding market expansion, inventory management, and sales territory allocation.
 ![Screenshot 2024-03-19 185531](https://github.com/Siva-Subramaniam-DS/Tableau/assets/138869164/490223e4-5a68-47e6-b76e-d5133c26705e)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 The Conclusion:
 Overall, the comprehensive analysis of the Superstore dataset using a diverse range of Tableau visualizations has yielded valuable insights into sales trends, profitability drivers, and areas for strategic focus. These insights will enable data-driven decision-making and help drive business growth and profitability in the future.
+# Dashboard
+![Screenshot 2024-04-01 144318](https://github.com/Siva-Subramaniam-DS/Tableau-Visualizations-in-Superstore/assets/138869164/03532209-74c2-453c-b4ab-95dacb590049)
+
