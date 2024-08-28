@@ -1,13 +1,13 @@
 # Table of Content 📍
-- [Analysis Explanation](#analysis-explanation)
-- [Waterfall Chart](#waterfall-chart)
-- [Bar and Line Chart](#bar-and-line-chart)
-- [Scatter Plot Chart](#scatter-plot-chart)
-- [Treemap Visualization Chart](#treemap-visualization-chart)
-- [Gantt Chart](#gantt-chart)
-- [Heat map Chart](#heat-map-chart)
-- [Dashboard](#dashboard)
-- [The Conclusion](#the-conclusion)
+- 📖:[Analysis Explanation](#analysis-explanation)
+- 📈[Waterfall Chart](#waterfall-chart)
+- 📈[Bar and Line Chart](#bar-and-line-chart)
+- 📈[Scatter Plot Chart](#scatter-plot-chart)
+- 📊[Treemap Visualization Chart](#treemap-visualization-chart)
+- 📊[Gantt Chart](#gantt-chart)
+- 📊[Heat map Chart](#heat-map-chart)
+- 📋:[Dashboard](#dashboard)
+- 📋[The Conclusion](#the-conclusion)
 
 # Analysis of the Superstore 📖
 
