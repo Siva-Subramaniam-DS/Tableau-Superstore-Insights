@@ -1,5 +1,5 @@
 # Table of Content 📍
-[Analysis Explanation](Analysis-Explanation)
+- [Analysis Explanation](Analysis-Explanation)
 
 
 # Analysis of the Superstore 📖
